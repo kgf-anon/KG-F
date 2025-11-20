@@ -1,7 +1,7 @@
 # KG-F: A Knowledge Graph Framework for Fertilizer Recommendation
 
 <div align="center">
-  <img src="images/KG_F_.png" alt="KG-F Pipeline" width="600"/>
+  <img src="images/KG_F_123.png" alt="KG-F Pipeline" width="600"/>
 </div>
 
 **KG-F** is a cutting-edge explainable AI system for precision agriculture that leverages knowledge graphs and multi-agent learning to provide optimal fertilizer recommendations. Our framework integrates heterogeneous agricultural data and employs specialized Graph Attention Networks (GATv2) to capture complex soil-crop-weather interactions for dynamic, context-aware decision-making.
